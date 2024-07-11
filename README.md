@@ -1,5 +1,4 @@
 # HR-Analytics-Dashboard
 
-The HR Analytics Dashboard in Tableau provides a comprehensive visual representation of key HR metrics and insights to facilitate data-driven decision-making within the Human Resources department. This dashboard aims to help HR professionals analyze workforce trends, monitor employee performance, and optimize HR strategies for organizational success.
-
+The HR Analytics Dashboard in Tableau provides a comprehensive view of key HR metrics such as employee count, attrition rate, active employees, average age, and job satisfaction rate. By leveraging visual analytics and interactive features, organizations can gain insights into workforce dynamics, identify trends, and make informed decisions to enhance employee engagement, retention, and overall organizational performance.
 
